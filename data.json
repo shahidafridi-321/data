@@ -1,63 +1,63 @@
 {
 	"person": [
 		{
-			"name": "shahid",
-			"age": 20,
+			"name": "Shahid Afridi",
+			"age": 21,
 			"parents": {
-				"father": "ali",
-				"mother": "sara"
+				"father": "Muhammad Yaqoob khan",
+				"mother": "Unknown"
 			}
 		},
 		{
-			"name": "Alijan",
+			"name": "Ali Jan",
 			"age": 30,
 			"parents": {
-				"father": "akram",
-				"mother": "johera"
+				"father": "Akram Durrani",
+				"mother": "Jawera"
 			}
 		},
 		{
-			"name": "imran",
+			"name": "Imran Khan",
 			"age": 40,
 			"parents": {
-				"father": "anasAli",
-				"mother": "Kainat"
+				"father": "Anas Ali",
+				"mother": "Kainat sara"
+			}
+		},
+		{
+			"name": "Khan Baba",
+			"age": 20,
+			"parents": {
+				"father": "Jon snow",
+				"mother": "Sara Ali Khan"
+			}
+		},
+		{
+			"name": "Gul wali",
+			"age": 30,
+			"parents": {
+				"father": "Shatar Jan",
+				"mother": "Gulapa"
+			}
+		},
+		{
+			"name": "Sheroz khan",
+			"age": 20,
+			"parents": {
+				"father": "Gul Marjan",
+				"mother": "Sara Gul"
 			}
 		}
 		{
-			"name": "shahid",
-			"age": 20,
+			"name": "Brad",
+			"age": 25,
 			"parents": {
-				"father": "ali",
-				"mother": "sara"
+				"father": "Edward",
+				"mother": "Nacolas"
 			}
 		},
 		{
-			"name": "Alijan",
-			"age": 30,
-			"parents": {
-				"father": "akram",
-				"mother": "johera"
-			}
-		},
-		{
-			"name": "imran",
-			"age": 40,
-			"parents": {
-				"father": "anasAli",
-				"mother": "Kainat"
-			}
-		}
-		{
-			"name": "shahid",
-			"age": 20,
-			"parents": {
-				"father": "ali",
-				"mother": "sara"
-			}
-		},
-		{
-			"name": "Alijan",
+			"name": "Ali jan",
 			"age": 30,
 			"parents": {
 				"father": "akram",
