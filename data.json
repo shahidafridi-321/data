@@ -1,76 +1,76 @@
 {
-	"person": [
-		{
-			"name": "Shahid Afridi",
-			"age": 21,
-			"parents": {
-				"father": "Muhammad Yaqoob khan",
-				"mother": "Unknown"
-			}
-		},
-		{
-			"name": "Ali Jan",
-			"age": 30,
-			"parents": {
-				"father": "Akram Durrani",
-				"mother": "Jawera"
-			}
-		},
-		{
-			"name": "Imran Khan",
-			"age": 40,
-			"parents": {
-				"father": "Anas Ali",
-				"mother": "Kainat sara"
-			}
-		},
-		{
-			"name": "Khan Baba",
-			"age": 20,
-			"parents": {
-				"father": "Jon snow",
-				"mother": "Sara Ali Khan"
-			}
-		},
-		{
-			"name": "Gul wali",
-			"age": 30,
-			"parents": {
-				"father": "Shatar Jan",
-				"mother": "Gulapa"
-			}
-		},
-		{
-			"name": "Sheroz khan",
-			"age": 20,
-			"parents": {
-				"father": "Gul Marjan",
-				"mother": "Sara Gul"
-			}
-		},
-		{
-			"name": "Brad",
-			"age": 25,
-			"parents": {
-				"father": "Edward",
-				"mother": "Nacolas"
-			}
-		},
-		{
-			"name": "Ali jan",
-			"age": 30,
-			"parents": {
-				"father": "akram",
-				"mother": "johera"
-			}
-		},
-		{
-			"name": "imran",
-			"age": 40,
-			"parents": {
-				"father": "anasAli",
-				"mother": "Kainat"
-			}
-		}
-	]
+    "person": [
+        {
+            "name": "Shahid Afridi",
+            "age": 21,
+            "parents": {
+                "father": "Muhammad Yaqoob khan",
+                "mother": "Unknown"
+            }
+        },
+        {
+            "name": "Ali Jan",
+            "age": 30,
+            "parents": {
+                "father": "Akram Durrani",
+                "mother": "Jawera"
+            }
+        },
+        {
+            "name": "Imran Khan",
+            "age": 40,
+            "parents": {
+                "father": "Anas Ali",
+                "mother": "Kainat sara"
+            }
+        },
+        {
+            "name": "Khan Baba",
+            "age": 20,
+            "parents": {
+                "father": "Jon snow",
+                "mother": "Sara Ali Khan"
+            }
+        },
+        {
+            "name": "Gul wali",
+            "age": 30,
+            "parents": {
+                "father": "Shatar Jan",
+                "mother": "Gulapa"
+            }
+        },
+        {
+            "name": "Sheroz khan",
+            "age": 20,
+            "parents": {
+                "father": "Gul Marjan",
+                "mother": "Sara Gul"
+            }
+        },
+        {
+            "name": "Brad",
+            "age": 25,
+            "parents": {
+                "father": "Edward",
+                "mother": "Nacolas"
+            }
+        },
+        {
+            "name": "Ali jan",
+            "age": 30,
+            "parents": {
+                "father": "akram",
+                "mother": "johera"
+            }
+        },
+        {
+            "name": "imran",
+            "age": 40,
+            "parents": {
+                "father": "anasAli",
+                "mother": "Kainat"
+            }
+        }
+    ]
 }
