@@ -1,0 +1,28 @@
+{
+	"person": [
+		{
+			"name": "shahid",
+			"age": 20,
+			"parents": {
+				"father": "ali",
+				"mother": "sara"
+			}
+		},
+		{
+			"name": "Alijan",
+			"age": 30,
+			"parents": {
+				"father": "akram",
+				"mother": "johera"
+			}
+		},
+		{
+			"name": "imran",
+			"age": 40,
+			"parents": {
+				"father": "anasAli",
+				"mother": "Kainat"
+			}
+		}
+	]
+}
